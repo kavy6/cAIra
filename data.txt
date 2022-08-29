@@ -1,0 +1,18 @@
+Kavya sad Details: i don't feel so good today i think it's because i didn't sleep well last night 
+Guest neutral Details: i feel good
+Kavya happy Details: i feel good 
+Kavya neutral Details: i don't feel so good today because of my exam results 
+Kavya happy Details: i feel good 
+Kavya neutral Kavya sad Details: 
+Kavya neutral Details: i don't feel so good today i think it's because of my exam results 
+Details: i don't feel so good today because of xyz 
+Details: i feel good 
+Details: i don't feel so good today because of hhhh 
+Details: i feel good 
+Kavya happy Details: i feel good 
+Kavya happy Details: i don't feel so good today because of something 
+Kavya sad Details: i feel good 
+Kavya neutral Kavya neutral Kavya happy Details: i don't feel so good today because of my exam results 
+Kavya happy Details: i don't feel so good today because of my exam results 
+Kavya happy Details: i don't feel so good today because of my exam results 
+Kavya happy Details: i don't feel so good today because of my exam results 
